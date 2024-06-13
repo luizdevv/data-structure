@@ -1,3 +1,3 @@
-#﻿# linked-list-java
+# linked-list-java
 
-# Uma pequena implementação de listas ligadas utilizando java
+### Uma pequena implementação de listas ligadas utilizando java
